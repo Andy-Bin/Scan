@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  scan
+//
+//  Created by xu yongpan on 2021/6/1.
+//
+
+#ifdef __cplusplus
+#import <opencv2/opencv.hpp>
+#import <opencv2/imgproc/types_c.h>
+#import <opencv2/imgcodecs/ios.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
